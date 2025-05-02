@@ -33,7 +33,15 @@
 - Contact Us & FAQs  
 
 ---
+## 📸 GUI Preview
+#### 1. HOME PAGE
+> ![image](https://github.com/user-attachments/assets/ac418880-1638-4896-a478-c5c6830d2b5c)
+#### 2. TIME SELECTION
+> ![image](https://github.com/user-attachments/assets/61f6c8cb-7666-470e-9ec7-4a509d617468)
+#### 3. SEAT SELECTION
+> ![image](https://github.com/user-attachments/assets/cd5aca95-1fd2-4ea2-a007-009783aa39db)
 
+---
 ## 🗺️ Operational Cities
 
 - Islamabad  
